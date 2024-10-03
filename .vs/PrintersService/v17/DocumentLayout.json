@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIKOLOZ\\source\\repos\\PrintersService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB283566-3F37-4D2B-B39C-28C6FEDE440B}|PrintersService\\PrintersService.csproj|c:\\users\\nikoloz\\source\\repos\\printersservice\\printersservice\\controllers\\printercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB283566-3F37-4D2B-B39C-28C6FEDE440B}|PrintersService\\PrintersService.csproj|solutionrelative:printersservice\\controllers\\printercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB283566-3F37-4D2B-B39C-28C6FEDE440B}|PrintersService\\PrintersService.csproj|c:\\users\\nikoloz\\source\\repos\\printersservice\\printersservice\\model\\printerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB283566-3F37-4D2B-B39C-28C6FEDE440B}|PrintersService\\PrintersService.csproj|solutionrelative:printersservice\\model\\printerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2029881168:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrinterInfo.cs",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\PrintersService\\PrintersService\\Model\\PrinterInfo.cs",
+              "RelativeDocumentMoniker": "PrintersService\\Model\\PrinterInfo.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\PrintersService\\PrintersService\\Model\\PrinterInfo.cs",
+              "RelativeToolTip": "PrintersService\\Model\\PrinterInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:18:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrinterController.cs",
+              "DocumentMoniker": "C:\\Users\\NIKOLOZ\\source\\repos\\PrintersService\\PrintersService\\Controllers\\PrinterController.cs",
+              "RelativeDocumentMoniker": "PrintersService\\Controllers\\PrinterController.cs",
+              "ToolTip": "C:\\Users\\NIKOLOZ\\source\\repos\\PrintersService\\PrintersService\\Controllers\\PrinterController.cs",
+              "RelativeToolTip": "PrintersService\\Controllers\\PrinterController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:01:19.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
